@@ -14,4 +14,4 @@ MENTOR NAME: NEELA SANTHOSH
 
 OUTPUT
 
-https://github.com/gyanaranjan70/ONLINE-LEARNING-PLATFORM/issues/1#issue-3228995202
+![Image](https://github.com/user-attachments/assets/5280cf12-c584-4635-b500-6012b047156b)
